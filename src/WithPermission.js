@@ -1,6 +1,6 @@
 import React, { createElement, Component } from 'react';
 import PropTypes from 'prop-types';
-import FormField from 'admin-on-rest/lib/mui/form/FormField';
+import FormField from 'react-admin/lib/mui/form/FormField';
 import getContext from 'recompose/getContext';
 
 import DefaultLoading from './Loading';

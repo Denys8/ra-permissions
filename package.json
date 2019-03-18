@@ -24,7 +24,7 @@
     ]
   },
   "devDependencies": {
-    "admin-on-rest": "~1.2.0",
+    "react-admin": "^2.7.3",
     "babel-cli": "~6.24.1",
     "babel-core": "~6.25.0",
     "babel-eslint": "~7.2.3",
@@ -58,7 +58,7 @@
     "recompose": "~0.23.4"
   },
   "peerDependencies": {
-    "admin-on-rest": "~1.2.0",
+    "react-admin": "^2.7.3",
     "material-ui": "~0.17.4"
   }
 }

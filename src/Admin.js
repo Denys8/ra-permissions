@@ -1,6 +1,6 @@
 import React, { Children, Component } from 'react';
 import PropTypes from 'prop-types';
-import { Admin as OriginalAdmin, Resource } from 'admin-on-rest';
+import { Admin as OriginalAdmin, Resource } from 'react-admin';
 import omit from 'lodash.omit';
 import AuthProvider from './AuthProvider';
 import { AUTH_GET_PERMISSIONS } from './constants';

@@ -1,7 +1,7 @@
 import expect, { createSpy } from 'expect';
 import React from 'react';
 import { shallow } from 'enzyme';
-import { Resource } from 'admin-on-rest';
+import { Resource } from 'react-admin';
 
 import Admin, {
     defaultApplyPermissionsToAction,
